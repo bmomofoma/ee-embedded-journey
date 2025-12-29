@@ -20,3 +20,9 @@ It serves as a central location for code snippets, experiments, and technical no
 
 ## Repository Structure
 
+/docs/ # Technical notes, datasheets, diagrams
+/c/ # C code experiments (pointers, bitwise, memory)
+/embedded-basics/ # MCU peripheral experiments (GPIO, timers, interrupts)
+/protocols/ # Communication protocols (UART, SPI, I2C)
+/matlab/ # MATLAB scripts and simulations
+/verilog/ # Digital logic and FPGA examples
