@@ -1,3 +1,10 @@
+/*
+ * File: shopping_cart.c
+ * Description: Simple shopping cart program that demonstrates
+ *              string input using fgets, numeric input using scanf,
+ *              and formatted output in C.
+ */
+
 #include <stdio.h>
 #include <string.h>
 
