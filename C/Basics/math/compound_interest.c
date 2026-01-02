@@ -1,3 +1,10 @@
+/*
+ * File: compound_interest.c
+ * Description: Calculates compound interest using user input
+ *              for principal, rate, time, and compounding frequency.
+ * Concepts: scanf, math library, variables
+ */
+
 #include <stdio.h>
 #include <math.h>
 
